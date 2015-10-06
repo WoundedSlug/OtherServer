@@ -1,4 +1,3 @@
-package me.WoundedSlug.SlugplexHub;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
